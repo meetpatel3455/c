@@ -13,6 +13,7 @@ public:
         cout<<sqr<<endl;
     } 
     shape(int l,int b){
+        
         int rec;
         rec=l*b;
         cout<<rec<<endl;
